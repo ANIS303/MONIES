@@ -1,0 +1,13 @@
+footer {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),
+    url(../../assest/images/peakpx.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  direction: ltr;
+}
+footer ul {
+  list-style: none;
+  padding: 0;
+}
